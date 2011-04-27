@@ -1,5 +1,5 @@
-Overview of what testing frameworks
-===================================
+Overview of javascript testing frameworks
+=========================================
 
 jasmine:
 	install: npm install jasmine-node

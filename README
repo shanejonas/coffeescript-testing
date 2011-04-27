@@ -1,0 +1,16 @@
+Overview of what testing frameworks
+===================================
+
+jasmine:
+	install: npm install jasmine-node
+	(had to compile to js to run tests)
+	run: jasmine-node .
+
+nodeunit:
+	install: npm install nodeunit
+	run: nodeunit <file>
+
+vows: 
+	install: npm install vows
+	run: coffee <file>
+	
